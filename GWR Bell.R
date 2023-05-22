@@ -1,7 +1,7 @@
 
 # Geographically Weighted Bell Regression (GWBR)
 
-# To use the regression model, you must run all the code in this script. Once this is done, 
+# To use the GWBR model, you must run all the code in this script. Once this is done, 
 # you just need to declare in the ggwr.basic() function the argument: family = 'bell' or
 # family = 'bell.log'(Bell with logarithmic link function)
 
